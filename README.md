@@ -1,2 +1,2 @@
 # cicd-demo
-CD/CD Demo #1
+CD/CD Demo
